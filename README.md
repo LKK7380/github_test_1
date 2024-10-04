@@ -1,2 +1,14 @@
-#프로그래머로서의 첫 시작점......
-2014년도에 배웠던 파이썬과는 정말 많이 다르다 시대가 너무 많이 변했다는것을 체감하며 일단 jdk17과 
+# 프로젝트 제목
+
+## 소개
+이 프로젝트는 ...
+
+## 기능
+- 기능 1
+- 기능 2
+
+## 설치 방법
+```bash
+git clone https://github.com/username/project.git
+cd project
+npm install
